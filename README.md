@@ -23,6 +23,9 @@
   4. Статус учебы
   5. В каких ВУЗач учатся
 * Объединяем все чарты в дэшборд
+
+Код: ```vk_ufa_eda.ipynb```  
+Дэшборд: https://datalens.yandex/zengrdaoftjmn
 ## Источники
 * [vl_api](https://dev.vk.com/ru)
 * [Yandex DataLens](https://yandex.cloud/en/services/datalens)
